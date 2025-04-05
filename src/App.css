@@ -1,0 +1,37 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.header-with-background {
+  background-image: url('src/assets/Software Engineering .jpeg');
+  background-size: cover;
+  height: 400px;
+  width: 1000px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  margin: auto;
+}
+
+.About-title {
+  color: blue;
+  justify-content: center;
+  text-align: center;
+}
+
+.About-paragraph{
+  text-align: center;
+
+}
+
+.contact-title{
+  color: blue;
+  text-align: center;
+}
+
+.contact-info{
+  text-align: center;
+}
